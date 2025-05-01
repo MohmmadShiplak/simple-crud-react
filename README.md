@@ -1,3 +1,38 @@
+
+# 📝 React CRUD Operations App
+
+### A modern React application demonstrating CRUD (Create, Read, Update, Delete) operations using essential React Hooks.
+
+## 🚀 Features
+
+### ✅ Full CRUD functionality
+
+### 🔄 State management using useState and useReducer
+
+### 🌐 Routing with react-router-dom (useRouter)
+
+### 🏗️ Context API (useContext) for global state
+
+## 🛠 Tech Stack
+
+### State Management: useState, useReducer, useContext
+
+### Routing: React Router 
+
+### Boostrap react 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
